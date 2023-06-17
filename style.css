@@ -1,0 +1,32 @@
+body {
+    font-family: 'Pacifico', cursive;
+    background: linear-gradient(#b9bb3a 50%, #e9da11 70%);
+}
+.header-div {
+    background-color: rgb(178, 212, 24);
+    color: whitesmoke;
+    background: linear-gradient(#60ebeb 50%, #27ae50 100%);
+
+}
+.header-div p{
+    font-family: cursive;
+
+}
+.main-div button{
+    font-family: 'Caveat', cursive;
+    font-family: 'Pacifico', cursive;
+    letter-spacing: 2px;
+    background: linear-gradient(#707070 50%, #27ae50 100%);
+    width: 130px;
+    margin-top: 30px;
+}
+.copyright-foot{
+    position: fixed;
+    color: darkslategrey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background: linear-gradient(#1cb9b9 50%, #27ae50 100%);
+    line-height: 2;
+    text-shadow: 5px 5px 5px;
+}
